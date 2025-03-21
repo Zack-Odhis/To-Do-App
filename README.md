@@ -81,10 +81,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 Contributions are welcome! Feel free to fork this repository and submit a **pull request**.
 
 ### 🔗 Connect with Me
-💻 GitHub: [Your GitHub Profile](https://github.com/your-username)  
-✉️ Email: your.email@example.com  
+✉️ Email: zackodhis21@gmail.com  
 
 ---
-
-Happy Coding! 🚀
-
